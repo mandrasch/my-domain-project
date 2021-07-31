@@ -1,0 +1,24 @@
+{
+  "name": "tiny-dooo",
+  "version": "1.0.0",
+  "description": "Tiny prototype for the \"domain of ones own\" concept",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --files='./*.html,./*.css'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandrasch/tiny-dooo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandrasch/tiny-dooo/issues"
+  },
+  "homepage": "https://github.com/mandrasch/tiny-dooo#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
